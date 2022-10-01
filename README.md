@@ -20,7 +20,7 @@ Etape 5:
 Coder les fichier de vos choix dans cette branche. Faites régulierement vos commits (pour vous, des genres de sauvegarde).   
 Etape 6:   
 Une fois votre versions terminé, près à être push. il y a deux choix :   
-Soit aucun push sur le main (sur github) n'as jamais donc tu peux tout simplement push avec ```git push -u origin main```   
+Soit aucun push sur le main (sur github) n'as été fait donc tu peux tout simplement push avec ```git push -u origin main```   
 Soit un push à déja été fait par quelqu'un donc suit l'étape 7.   
 Etape 7:  
 Dans ce cas, il faut pull (tirer le main de github sur son ordinateur dans sa branche) (je ne sais pas faire la commande donc on en parlera demains)  
