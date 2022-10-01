@@ -1,3 +1,9 @@
+
+.navbar-nav{
+  display: flex;
+  align-content:space-around
+}
+
 .BtnCallToAction {
   width: 120px;
   height: 120px;
