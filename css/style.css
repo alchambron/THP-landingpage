@@ -1,1 +1,22 @@
-/* Default mode */
+.BtnCallToAction {
+  width: 120px;
+  height: 120px;
+
+  border-radius: 60px 60px 60px 60px;
+  
+  border: 2px solid #000000;
+  font-size: x-large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  box-shadow: 0px 0px 65px 0px rgba(252,252,252,1);
+  background: linear-gradient(180deg, #FFC649 0%, #FFBF3B 18.75%, #FF5D14 37.5%, #FE2A98 56.77%, #AB39BD 80.73%, rgba(108, 57, 206, 0.78) 100%, #6C39CE 100%);
+}
+.bg-image{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.IconeInstagram{
+  width: 60px;
+  height: 60px;
+}
