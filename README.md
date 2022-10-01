@@ -1,14 +1,14 @@
 # Projet Jour 5 - Landing page
 
 ## Installation
-Pour mettre en place l'utilisation à plusieurs il faut comprendre plusieurs concept. 
+Pour mettre en place l'utilisation à plusieurs il faut comprendre plusieurs concept.   
 
-Dans un premier temps il faut comprendre que nous allons travaillé uniquement dans nos branche local, puis ensuite on va envoyé nos résultats dans la branche main sur github.
+Dans un premier temps il faut comprendre que nous allons travaillé uniquement dans nos branche local, puis ensuite on va envoyé nos résultats dans la branche main sur github.  
 
-Donc nous devons suivre une habitude :
+Donc nous devons suivre une habitude :  
 
-##Etape 1
-Commencer par clean vos dossier sur vos ordinateurs, puis préparer un dossier pour mettre en place le repo
+Etape 1  
+Commencer par clean vos dossier sur vos ordinateurs, puis préparer un dossier pour mettre en place le repo  
 ##Etape 2: 
 Récupérer ensuite le projet avec ```git clone git@github.com:alchambron/landingpage.git```
 ##Etape 3: 
